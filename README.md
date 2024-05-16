@@ -7,3 +7,9 @@ Upload a pdf/txt/docx file, or paste the URL of an article for the following ana
 
 Pre-requisite:
 - Need a local ollama server and llama3 model installed
+
+Start the ollama server:
+`ollama serve`
+
+Start the UI:
+`streamlit run agent.py`
